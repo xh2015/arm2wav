@@ -18,3 +18,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MobileFFmpeg"
 include ':app'
+include ':amr2wav'
